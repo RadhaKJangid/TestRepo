@@ -1,3 +1,3 @@
 echo "Hello Git"
-VAR = "hi"
+VAR="hi"
 echo "$VAR"
